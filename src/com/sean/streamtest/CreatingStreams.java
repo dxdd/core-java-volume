@@ -10,7 +10,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.stream.Stream;
 
-import static java.util.regex.Pattern.*;
+import static java.util.regex.Pattern.compile;
 
 /**
  * @Author: sean
